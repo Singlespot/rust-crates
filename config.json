@@ -1,4 +1,4 @@
 {
-  "dl": "http://localhost:5000/api/v1/crates/{crate}/{version}/download",
-  "api": "http://localhost:5000"
+  "dl": "https://crates.singlespot.com/api/v1/crates/{crate}/{version}/download",
+  "api": "https://crates.singlespot.com"
 }
