@@ -1,2 +1,3 @@
 {"name": "example", "vers": "0.1.1", "deps": [], "features": {}, "authors": ["Marc Le Labourier <marc@singlespot.com>"], "keywords": [], "categories": [], "badges": {}, "cksum": "a0b478bac32842e85c292ef2587d61980b2461c272ace360aaefd96c80a0e750"}
 {"name": "example", "vers": "0.1.2", "deps": [], "features": {}, "authors": ["Marc Le Labourier <marc@singlespot.com>"], "keywords": [], "categories": [], "badges": {}, "cksum": "197fb8f4bb686d50326d2115ed9ceaeaf439713197ac121a8ee54e931b449f19"}
+{"name": "example", "vers": "0.1.3", "deps": [], "features": {}, "authors": ["Marc Le Labourier <marc@singlespot.com>"], "keywords": [], "categories": [], "badges": {}, "cksum": "3f09a301c79639306cc41630d796d806147b3343bd43dc93f8fdef9ba3251849"}
